@@ -67,9 +67,12 @@
 
 ## Results
 
-On VOT-16 dataset, reproduced model achieves **EAO 0.24**  ***vs***  **EAO 0.24**, which is SiamFC-A as listed in VOT-16 challenge paper.
+Compare EAO:
 
-On VOT-17 dataset, reproduced model achieves **EAO 0.20** ***vs*** **EAO 0.19**, which is given by VOT-17 challenge paper. (I also use the VOT-17 results from original paper, and compare results using toolkit)
+| dataset  | result of this repo | result in vot paper |
+|-----|-----|-----|
+| VOT 16| 0.24 | 0.24 |
+| VOT 17| 0.20 | 0.19
 
 ## References
 
