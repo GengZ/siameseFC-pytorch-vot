@@ -1,5 +1,8 @@
 ## SiamFC-PyTorch-VOT
-This is the PyTorch (0.3.1) implementation of SiamFC tracker [1], which was originally <a href="https://github.com/bertinetto/siamese-fc">implemented</a> using MatConvNet [2]. In this project, we obtain slightly better results on VOT-16 and VOT-17 dataset. ***This project is originally forked from [HengLan's implementation](https://github.com/HengLan/SiamFC-PyTorch)***, which is with PyTorch 0.4.0 for OTB dataset. 
+
+* This is the PyTorch (0.3.1) implementation of SiamFC tracker [1], which was originally <a href="https://github.com/bertinetto/siamese-fc">implemented</a> using MatConvNet [2].
+* In this project, we obtain slightly better results on VOT-16 and VOT-17 dataset.
+* **This project is originally forked from [HengLan's implementation](https://github.com/HengLan/SiamFC-PyTorch), which is with PyTorch 0.4.0 for OTB dataset.**
 
 ## Why fork and tinker?
 
